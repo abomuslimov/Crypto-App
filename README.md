@@ -1,6 +1,6 @@
 # crypto_app
-
-A new Flutter application.
+Co
+This app shows daily price of the several crypto curriencies(Bitcoin, Ehtereum and Litecoin). The app uses CoinApi (https://docs.coinapi.io/#md-docs). 
 
 ## Getting Started
 
